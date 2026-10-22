@@ -1,5 +1,11 @@
 # PG Pickup Notifier
 
+## 100% coded by Claude Opus
+
+VIP required for chat log access.
+
+## Info
+
 A small Windows tray app that watches your Project Gorgon chat log and shows a popup in the
 corner of your screen with the **name and icon of every item you pick up**.
 
